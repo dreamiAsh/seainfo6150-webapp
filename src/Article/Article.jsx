@@ -29,10 +29,10 @@ const Article = () => {
         <p>Since then, the statue has served as a symbol of hope and possibility for many people who entered the United States as immigrants via neighboring Ellis Island.</p>
 
         <p>"The original torch is a beautiful object of art and exemplifies the American ideals of freedom and democracy," says John Piltzecker, superintendent of the Statue of Liberty National Monument. That symbolic spirit inspired the decision to inscribe these famous lines on the statue's pedestal: </p>
-          <ul>
-            <li style={{listStyleType: "none"}}>Give me your tired, your poor</li>
-            <li style={{listStyleType: "none"}}>Your huddled masses yearning to breathe free.</li>
-          </ul>
+        <ul>
+          <li style={{listStyleType: "none"}}>Give me your tired, your poor</li>
+          <li style={{listStyleType: "none"}}>Your huddled masses yearning to breathe free.</li>
+        </ul>
 
         <p>In 2017, nearly 4.5 million people visited Liberty Island.</p>
 
