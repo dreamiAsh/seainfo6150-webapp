@@ -1,0 +1,10 @@
+.button{
+    color: white;
+    width: 86px;
+    height: 40px;
+    background: #ce3b28;
+    border-radius: 10px;
+}
+.date{
+    font-weight: bold;
+}

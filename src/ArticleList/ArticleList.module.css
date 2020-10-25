@@ -1,0 +1,12 @@
+.container {
+    width: 52%;
+    background: #999999;
+    border: dashed #6c7075 1px;
+    border-radius: 20px;
+    font-family: sans-serif;
+    padding: 0 15px 0 0;
+    box-shadow: 0px 0px 10px red ;
+}
+.list {
+    list-style: none;
+}

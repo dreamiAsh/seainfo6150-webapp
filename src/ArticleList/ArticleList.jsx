@@ -1,4 +1,5 @@
 import React from "react";
+import styles from "./ArticleList.module.css";
 import ArticleListItem from "../ArticleListItem/ArticleListItem";
 
 const ArticleList = (props) => {
@@ -7,8 +8,8 @@ const ArticleList = (props) => {
         <li><ArticleListItem article = {listItem}/></li>
     ))
   return (
-    <article>
-        <ul>{mappedList}</ul>
+    <article className={styles.container}>
+        <ul className={styles.list}>{mappedList}</ul>
     </article>
   );
 };
