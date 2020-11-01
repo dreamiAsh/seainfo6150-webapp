@@ -1,6 +1,12 @@
 .box{
     background: white;
-    width: 95%;
+    width: 28%;
+    /* height: 150px; */
+    float: left;
+    margin-right: 10px;
+    font-size: 12px;
+    text-decoration: underline;
+    text-decoration-color: red;
     border-radius: 10px;
     padding: 2px 5px 13px 20px;
     margin-bottom: 20px;
@@ -10,5 +16,5 @@
 }
 .header{
     color: #cd3b27;
-    
+    height: 30px;
 }

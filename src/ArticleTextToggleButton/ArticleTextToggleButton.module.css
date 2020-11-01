@@ -1,10 +1,15 @@
 .button{
     color: white;
-    width: 86px;
-    height: 40px;
+    width: 94%;
+    height: 32px;
     background: #ce3b28;
     border-radius: 10px;
 }
 .date{
     font-weight: bold;
+    height: 14px;
+}
+.content{
+    font-size: 11px;
+    height: 55px;
 }
